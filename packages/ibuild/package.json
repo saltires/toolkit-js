@@ -1,15 +1,11 @@
 {
-  "name": "@toolkit-js/ibuild",
+  "name": "@niocn/father",
   "version": "1.2.2",
   "description": "Library build tool inspired by [father](https://github.com/umijs/father).",
   "keywords": [
     "father",
-    "ibuild",
-    "library",
-    "toolkit"
+    "library"
   ],
-  "author": "https://kawhi.site",
-  "homepage": "https://github.com/kawhi66/toolkit-js/tree/master/packages/ibuild",
   "license": "MIT",
   "main": "lib/index.js",
   "bin": {
@@ -17,13 +13,6 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kawhi66/toolkit-js.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kawhi66/toolkit-js/issues"
   },
   "dependencies": {
     "@babel/core": "7.14.2",

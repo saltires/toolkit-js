@@ -13,10 +13,10 @@
 
 ## Installation
 
-Install `ibuild` via yarn or npm.
+Install `@niocn/father` via yarn or npm.
 
 ```bash
-$ yarn add @toolkit-js/ibuild -D
+$ yarn add @niocn/father -D
 ```
 
 ## Usage
